@@ -139,8 +139,12 @@ table, th, td {
   border: 1px solid #777;
 }
 
+.usatext p {
+   color: white;
+	background-color: #950606;
+}
 
-h3 {
-
+.usatext h1 {
+   color: white;
 }
 
