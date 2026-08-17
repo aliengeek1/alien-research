@@ -1,0 +1,146 @@
+#home
+
+body {
+	background-image: url('background.jpeg');
+	background-size: auto;
+}
+
+.navbar ul {
+  background-image: url('galaxy.jpeg');
+  list-style-type: none;  
+  margin: 30px;
+  padding: 10px;
+  overflow: hidden; 
+}
+
+.navbar ul li {
+  float: left;
+}
+
+.navbar ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar ul li a:hover {
+  background-color: green;
+}
+
+table, th, td {
+	background-color: white;
+	border: 1px solid;
+}
+
+.nocturnal ul {
+  background-image: url('norwegian.jpeg');
+  background-size: auto;
+  list-style-type: none;  
+  margin: 30px;
+  padding: 10px;
+  overflow: hidden; 
+}
+
+.nocturnal ul li {
+  float: left;
+}
+
+.nocturnal ul li a {
+  display: block;
+  color: #90EE90;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.daylight ul {
+  background-image: url('ohare.jpeg');
+  background-repeat: no-repeat;
+  background-size: 800px;
+  list-style-type: none;  
+  margin: 30px;
+  padding: 10px;
+  overflow: hidden; 
+}
+
+.daylight ul li {
+  float: left;
+}
+
+.daylight ul li a {
+  display: block;
+  color: #006400;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.radar ul {
+  background-image: url('ohare.jpeg');
+  background-repeat: no-repeat;
+  background-size: auto;
+  list-style-type: none;  
+  margin: 30px;
+  padding: 10px;
+  overflow: hidden; 
+}
+
+.radar ul li {
+  float: left;
+}
+
+.radar ul li a {
+  display: block;
+  color: #006400;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.radar img {
+	height: 200px;
+	float: left;
+}
+
+.wash img {
+	height: 400px;
+}
+
+.wowpaint img {
+	height: 400px;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.gallery-item {
+  margin: 5px;
+  border: 1px solid #ccc;
+  width: 180px;
+  float: left;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: auto;
+}
+
+.gallery-item .desc {
+  padding: 10px;
+  text-align: center;
+}
+
+.gallery-item:hover {
+  border: 1px solid #777;
+}
+
+
+h3 {
+
+}
+

@@ -1,0 +1,29 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="style.css">
+<title> Home </title>
+</head>
+
+<body>
+  <div class ="navbar">
+  <ul>
+   <li><a href ="home.html">Home</a></li>  
+	<li><a href ="art.html">My Artwork</a></li> 
+	</ul>
+    </div>
+
+<h1>title</h1>
+
+<p>Who</p>
+
+<img src = ".jpeg">
+
+<p>explain</p>
+
+<h3>Could this be a hoax/misunderstanding?</h3>
+<p>In my opinion,</p>
+
+</body>
+
+</html>
