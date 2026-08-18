@@ -148,3 +148,20 @@ table, th, td {
    color: white;
 }
 
+.funfact p {
+	color: white;
+	background-size: cover;
+	background-image: url('cottoncandy.jpeg');
+	float: right;
+	height: 200px;
+	width: 200px;
+	font-size: 23px;
+}
+
+.row {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 2rem;
+	align-items: flex-start;
+}
+
