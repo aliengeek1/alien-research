@@ -171,12 +171,7 @@ table, th, td {
 	align-items: flex-start;
 }
 
-.alonetext h1 {
-	font-size: 100px;
-	background-clip: text;
-	background-image: alone.jpeg;
-	font-family: "Mystery Quest", system-ui;
-  font-weight: 1000;
-  font-style: normal;
-	margin: 1px;
+.alonetext img {
+	width: 400px;
+	margin: -8px;
 }
