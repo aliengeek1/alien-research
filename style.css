@@ -2,6 +2,8 @@
 
 .floaty {
   float: right;
+  position: absolute;
+  z-index: -1;
 }
 
 body {
