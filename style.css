@@ -162,6 +162,12 @@ table, th, td {
    color: white;
 }
 
+.usatitle img {
+	width: 500px;
+	margin: -5px;
+	margin-left: 280;
+}
+
 .funfact p {
 	color: white;
 	background-size: cover;
