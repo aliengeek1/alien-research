@@ -10,8 +10,8 @@
 }
 
 .floaty {
-  float: right;
   position: absolute;
+  left: 50px;
   z-index: -1;
 }
 
